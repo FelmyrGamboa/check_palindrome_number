@@ -16,6 +16,8 @@
 #If not print the result saying it is not a palindrome
 
 #Create a variables with the given numbers
+check_number_1 = 121
+check_number_2 = 125
 
 #Call out the function
 
